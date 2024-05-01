@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2024-05-01T03:16:30.299965491-07:00"
+entries:
+  rtsp2webrtc:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2024-05-01T03:36:34.266187502-07:00"
+    description: A Helm chart for deploying rtsp2webrtc on TrueNAS SCALE
+    digest: 3d8778f6f2b8c88f46a45060b93c2c8213d9180273b81ec0c8c453aa706c616b
+    name: rtsp2webrtc
+    type: application
+    urls:
+    - https://pyrometheous.github.io/helm-charts/rtsp2webrtc-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-05-01T03:36:34.262893102-07:00"
